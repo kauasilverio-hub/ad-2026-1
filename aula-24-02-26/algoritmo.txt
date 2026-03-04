@@ -1,0 +1,22 @@
+Algoritmo<Operações Matemáticas Básicas> 
+
+
+Inicio 
+
+Var 
+Num1, Num 2, Soma, Sub, Mult, Div 
+
+Leia(Num1) 
+Leia(Num2) 
+
+Soma <-Num1 + Num2 
+Sub <-Num1 – Num2 
+Mult <-Num1 * Num2 
+Div <-Num1/Num2 
+
+Escreva("O resultado da Soma é:", Soma) 
+Escreva("O resultado da Subtração é:", Sub) 
+Escreva("O resultado da Multiplicação é:", Mult) 
+Escreva("O resultado da Divisão é:", Div) 
+
+Fim 

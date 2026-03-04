@@ -1,0 +1,22 @@
+Algoritmo<Média de Notas> 
+
+
+Inicio 
+
+Var 
+Nome, Nota1, Nota2, Nota3, Soma, Media 
+
+Leia("Digite seu nome:", Nome) 
+
+Escreva("Digite suas Notas:") 
+
+Leia("Prova 1:", Nota 1) 
+Leia("Prova 2:", Nota 2) 
+Leia("Prova 3:", Nota 3) 
+
+Soma<-Nota1+Nota2+Nota3 
+Media<-Soma/3 
+
+Escreva ("A Média do aluno"+Nome+"é:", Media) 
+
+fim  

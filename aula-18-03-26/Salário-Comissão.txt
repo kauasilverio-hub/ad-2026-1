@@ -1,0 +1,22 @@
+//Leia: o nome de um vendedor, o seu salário fixo, o valor total de vendas dele no mês e calcule 15% de //comissão das vendas. Exibir no final o nome, o salário fixo e salário total mais comissão. 
+
+ 
+
+Algoritmo<Salario_Comissão> 
+
+inicio 
+
+Var 
+Nome: Caractere 
+salario, vendas, total: real 
+
+Leia ("Escreva seu nome: " + nome) 
+Leia ("Digite seu Salário: "+ salario) 
+Leia ("Digite o valor total das vendas no mês: " + vendas) 
+Total <-salario + (vendas * 015) 
+
+Escreva ("Colaborador: "+ nome) 
+Escreva ("Salario fixo: "+ salario) 
+Escreva ("Salario com comissão de 15% nas vendas: "+ total) 
+
+fim 

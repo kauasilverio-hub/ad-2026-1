@@ -1,0 +1,22 @@
+//Ler dois valores ex: A e B, e efetuar as trocas dos valores de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável A. Exibir o resultado final 
+
+ 
+
+Algoritmo<Inversão_Valores> 
+
+Inicio 
+
+Var 
+ValorA, ValorB, Temporaria: caractere 
+
+Leia ("Digite o valor A: " + ValorA) 
+Leia ("Digite o valor B: " + ValorB) 
+
+Temporaria <- ValorA 
+ValorA <- ValorB 
+ValorB <- Temporaria 
+
+Escreva ("O valor da inversão para A é: "+ ValorA) 
+Escreva ("O valor da inversão para B é: "+ ValorB) 
+
+Fim 

@@ -1,0 +1,20 @@
+//Escrever um algoritmo para determinar o consumo médio de um automóvel sendo fornecida a distância total percorrida pelo automóvel e o total de combustível gasto 
+
+ 
+
+Algoritmo <Consumo Combustível> 
+
+Inicio 
+
+Var 
+Combustivel, Distancia, Consumo: real 
+
+Leia ("Informe a quantidade de combustível:", Combustivel+"L") 
+Leia ("Informe a distância percorrida:", Distancia+"Km") 
+Consumo <-Distancia/Combustivel 
+
+Escreva ("O Veículo gastou "+Combustivel+"L de combustivel.") 
+Escreva ("O Veículo percorreu "+Distancia+"Km de distancia.") 
+Escreva ("O consumo médio do Veículo é: "+Consumo+"Km/L") 
+
+Fim 

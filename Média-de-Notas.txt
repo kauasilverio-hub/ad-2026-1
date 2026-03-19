@@ -1,0 +1,28 @@
+//Escrever um algoritmo que leia o nome de um aluno e as notas das três provas que ele obteve no semestre. No final informar o nome do aluno e a sua média (aritmética) 
+
+ 
+
+Algoritmo<Média_de_Notas> 
+
+ 
+Inicio
+
+Var 
+Nome: Caractere 
+Prova1, Prova2, Prova3: Real 
+Soma, Media 
+
+Leia("Digite seu nome:"+ Nome) 
+
+Escreva("Digite suas Notas:") 
+
+Leia("Prova 1:"+ Prova1) 
+Leia("Prova 2:"+ Prova 2) 
+Leia("Prova 3:"+ Prova 3) 
+
+Soma<-Prova1+Prova2+Prova3 
+Media<-Soma/3 
+
+Escreva ("A Média do aluno"+Nome+"é:", Media) 
+
+fim  

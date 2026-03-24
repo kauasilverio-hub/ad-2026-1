@@ -1,0 +1,33 @@
+//Escrever um algoritmo que leia dois valores distintos inteiros e informe qual é o maior e diga se este número maior está no intervalo entre 1 a 99 100 e 199 ou maior que 200.  
+
+
+
+ALgoritmo<Maior Numero> 
+
+Inicio 
+
+Var 
+Numero1, Numero2, MaiorNumero: Inteiro 
+
+Escreva("Digite um número: ") 
+Leia(Numero1) 
+Escreva("Digite outro número: ") 
+Leia(Numero2) 
+
+SE Numero1>=Numero2 então 
+  MaiorNumero<-Numero1 
+  Escreva("O maior número é: "+Numero1) 
+SENÃO 
+  MaiorNumero<-Numero2 
+  Escreva("O maior número é: "+Numero2) 
+FimSE 
+
+SE MaiorNumero >= 1 E MaiorNumero <= 99 então 
+  Escreva("Este número está entre 1 a 99") 
+SENÃO SE MaiorNumero >= 100 E MaiorNumero <= 200 então 
+  Escreva("Este número está entre 100 a 200") 
+SENÃO 
+  Escreva("Este número é maior que 200") 
+FimSE 
+
+Fim 

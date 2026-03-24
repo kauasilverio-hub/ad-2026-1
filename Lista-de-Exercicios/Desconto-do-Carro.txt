@@ -1,0 +1,45 @@
+//A concessionária de veículos “CARANGO VELHO” está vendendo os seus veículos com desconto. Faça um algoritmo que calcule e exiba o valor do desconto e o valor a ser pago pelo cliente de vários carros. O desconto deverá ser calculado de acordo com o ano do veículo. Até 2010 - 12% e acima de 2010 - 7%. O sistema deverá perguntar se deseja continuar calculando desconto até que a resposta digite: “(N) Não” . Informar total de carros com ano até 2010 e total geral. 
+
+ 
+
+Algoritmo<Desconto do Carro> 
+
+Inicio 
+
+Var 
+Percentual, ValorCarro, DescontoCarrro, ValorFinal: Real 
+AnoCarro, TotalGeral, TotalCarro2010: Inteiro 
+Resposta: Texto 
+
+
+TotalGeral <-0 
+TotalCarro2010 <-0 
+
+REPITA  
+
+Leia(ValorCarro) 
+Leia(AnoCarro) 
+
+SE AnoCarro <=2010 então 
+  Percentual=0,12 
+  Escreva("Desconto de 12%") 
+  TotalCarro2010 <- TotalCarro2010 + 1 
+SENÃO 
+  Percentual=0,07 
+  Escreva("Desconto de 7%") 
+FimSE 
+
+DescontoCarrro <-Percentual*ValorCarro 
+ValorFinal <-ValorCarro - DescontoCarrro 
+
+Escreva("O valor final do carro é R$"+ValorFinal+", deseja continuar calculando?S/N") 
+Leia(Resposta) 
+
+TotalGeral <- TotalGeral + 1 
+
+ATÉ Resposta= "N" 
+
+Escreva("Total de carros com ano até 2010: "+TotalCarro2010) 
+Escreva("Total de carros: "+ TotalGeral) 
+
+Fim 

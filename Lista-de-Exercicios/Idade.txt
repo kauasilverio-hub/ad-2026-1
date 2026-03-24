@@ -1,0 +1,26 @@
+//Faça um algoritmo que receba a idade de 75 pessoas e mostre mensagem informando “maior de idade” e “menor de idade” e “idoso”para cada pessoa.Considere a idade a partir de 18 anos como maior de idade e idoso a partir de 60 anos. 
+
+ 
+
+Algoritmo<Idade> 
+
+Inicio 
+
+Var
+Idade: vetor [75] inteiro 
+cont: inteiro 
+
+PARA cont 0 a 74 FAÇA 
+    Escreva("Digite sua idade:") 
+    Leia (Idade [cont]) 
+
+    SE idade [cont] >= 60 então 
+      Escreva("Idoso") 
+    SENÃO SE idade [cont] >= 18 E idade[cont] <60 então 
+      Escreva("Maior de Idade") 
+    SENÃO 
+      Escreva("Menor de Idade") 
+    FimSE 
+FimPARA 
+
+Fim 

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c83a7ca9-68e5-4093-8440-b6db37103e38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/untitled/src/CarangoVelho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/CotacaoDolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/Idade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/NotaAprovada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/Rendimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/Taboada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/ValorCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/MaiorNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/MaiorNumero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/SalarioComissao.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/SalarioComissao.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3CG80ncPHV7cMJzdakueRw6tDGH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CarangoVelho.executor": "Run",
+    "Application.CotacaoDolar.executor": "Run",
+    "Application.FuncaoTaboada.executor": "Run",
+    "Application.Idade.executor": "Run",
+    "Application.MaiorNumero.executor": "Run",
+    "Application.MediaNotas.executor": "Run",
+    "Application.NotaAprovada.executor": "Run",
+    "Application.Rendimento.executor": "Run",
+    "Application.SalarioComissao.executor": "Run",
+    "Application.Taboada.executor": "Run",
+    "Application.ValorCarro.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Documents/Algoritmos/ad-2026-1/Projeto-JAVA"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CotacaoDolar">
+    <configuration name="CarangoVelho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarangoVelho" />
+      <module name="Projeto-JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CotacaoDolar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CotacaoDolar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Idade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Idade" />
+      <module name="Projeto-JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotaAprovada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NotaAprovada" />
+      <module name="Projeto-JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValorCarro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValorCarro" />
+      <module name="Projeto-JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CotacaoDolar" />
+        <item itemvalue="Application.CarangoVelho" />
+        <item itemvalue="Application.Idade" />
+        <item itemvalue="Application.ValorCarro" />
+        <item itemvalue="Application.NotaAprovada" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c83a7ca9-68e5-4093-8440-b6db37103e38" name="Changes" comment="" />
+      <created>1776000327233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776000327233</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
